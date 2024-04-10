@@ -1,4 +1,4 @@
-# EscapefromthePrisonIsland
+# Escape from the Prison Island / Побег с тюремного острова
 Компьютерная игра в жанре Escape the room на Python
 
 Запуск игры осуществляется через приложение Menu.
